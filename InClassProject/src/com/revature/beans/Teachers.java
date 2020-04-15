@@ -1,8 +1,8 @@
 package com.revature.beans;
 
 public class Teachers {
-	public String nameOfTeacher;
-	public int salaryTeacher;
+	private String nameOfTeacher;
+	private int salaryTeacher;
 
 	
 	public String getNameOfTeacher() {
